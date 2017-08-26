@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`200 1`] = `
+Object {
+  "data": "xml data",
+  "ok": true,
+  "status": 200,
+}
+`;
+
+exports[`400 1`] = `
+Object {
+  "error": "response error",
+  "ok": false,
+  "status": 400,
+}
+`;
+
+exports[`401 1`] = `
+Object {
+  "error": "response error",
+  "ok": false,
+  "status": 401,
+}
+`;
+
+exports[`500 1`] = `
+Object {
+  "error": "response error",
+  "ok": false,
+  "status": 500,
+  "statusText": "internal server error",
+}
+`;
+
+exports[`500 2`] = `
+Object {
+  "error": "response error",
+  "ok": false,
+  "status": 500,
+  "statusText": "Unknown response status",
+}
+`;

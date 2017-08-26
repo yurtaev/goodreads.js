@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`get 1`] = `
+Object {
+  "GoodreadsResponse": Object {
+    "Request": Object {
+      "authentication": true,
+      "key": "HQEJr6OqLDv7X71M2FWLg",
+      "method": "friend_user",
+    },
+    "friends": Object {
+      "attr": Object {
+        "end": "4",
+        "start": "1",
+        "total": "4",
+      },
+      "user": Array [
+        Object {
+          "created_at": "Fri Feb 10 15:49:06 -0800 2017",
+          "friends_count": 16,
+          "id": 64847104,
+          "image_url": "http://images.gr-assets.com/users/1486770541p3/64847104.jpg",
+          "is_mutual_friend": "",
+          "link": "http://www.goodreads.com/user/show/64847104-dmitry-lyfar",
+          "name": "Dmitry Lyfar",
+          "reviews_count": 41,
+          "small_image_url": "http://images.gr-assets.com/users/1486770541p2/64847104.jpg",
+        },
+        Object {
+          "created_at": "Tue Jun 20 18:11:05 -0700 2017",
+          "friends_count": 2,
+          "id": 68754725,
+          "image_url": "http://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png",
+          "is_mutual_friend": "",
+          "link": "http://www.goodreads.com/user/show/68754725-zhulduz",
+          "name": "Zhulduz",
+          "reviews_count": 4,
+          "small_image_url": "http://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png",
+        },
+        Object {
+          "created_at": "Mon Jun 05 20:01:27 -0700 2017",
+          "friends_count": 4,
+          "id": 68248038,
+          "image_url": "http://images.gr-assets.com/users/1496289066p3/68248038.jpg",
+          "is_mutual_friend": "",
+          "link": "http://www.goodreads.com/user/show/68248038-andrey-lisin",
+          "name": "Andrey Lisin",
+          "reviews_count": 130,
+          "small_image_url": "http://images.gr-assets.com/users/1496289066p2/68248038.jpg",
+        },
+        Object {
+          "created_at": "Wed Jun 10 21:37:33 -0700 2015",
+          "friends_count": 3,
+          "id": 43861905,
+          "image_url": "http://images.gr-assets.com/users/1433997453p3/43861905.jpg",
+          "is_mutual_friend": "",
+          "link": "http://www.goodreads.com/user/show/43861905-viatcheslav-gachkaylo",
+          "name": "Viatcheslav Gachkaylo",
+          "reviews_count": 3,
+          "small_image_url": "http://images.gr-assets.com/users/1433997453p2/43861905.jpg",
+        },
+      ],
+    },
+    "user": "",
+  },
+}
+`;

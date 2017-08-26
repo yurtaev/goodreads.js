@@ -1,0 +1,25 @@
+{
+  "env": {
+    "es": {
+      "presets": [
+        "flow", ["env", {
+          "targets": {
+            "browsers": ["last 2 versions", "safari >= 7"],
+            "node": true
+          }
+        }]
+      ],
+      "plugins": ["transform-object-rest-spread"]
+    },
+    "commonjs": {
+      "presets": [
+        "flow", ["latest", {
+          "es2015": {
+            "modules": false
+          }
+        }]
+      ],
+      "plugins": ["external-helpers", "transform-object-rest-spread"]
+    }
+  }
+}

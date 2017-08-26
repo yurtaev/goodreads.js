@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DELETE 1`] = `
+Object {
+  "headers": Object {
+    "Authorization": "OAuth oauth_consumer_key=\\"undefined\\", oauth_nonce=\\"FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\\", oauth_signature=\\"G5sOgo6LZKI0dgVxSA4a%2F0H5gmI%3D\\", oauth_signature_method=\\"HMAC-SHA1\\", oauth_timestamp=\\"1485820800\\", oauth_token=\\"user_key\\", oauth_version=\\"1.0\\"",
+  },
+  "method": "DELETE",
+}
+`;
+
+exports[`DELETE, token 1`] = `
+Object {
+  "headers": Object {
+    "Authorization": "OAuth oauth_consumer_key=\\"undefined\\", oauth_nonce=\\"FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\\", oauth_signature=\\"G5sOgo6LZKI0dgVxSA4a%2F0H5gmI%3D\\", oauth_signature_method=\\"HMAC-SHA1\\", oauth_timestamp=\\"1485820800\\", oauth_token=\\"user_key\\", oauth_version=\\"1.0\\"",
+  },
+  "method": "DELETE",
+}
+`;
+
+exports[`GET 1`] = `
+Object {
+  "headers": Object {
+    "Authorization": "OAuth oauth_consumer_key=\\"undefined\\", oauth_nonce=\\"FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\\", oauth_signature=\\"%2FJPxHSjmT5yiBl6WupGIKYJE4qQ%3D\\", oauth_signature_method=\\"HMAC-SHA1\\", oauth_timestamp=\\"1485820800\\", oauth_token=\\"user_key\\", oauth_version=\\"1.0\\"",
+  },
+  "method": "GET",
+}
+`;
+
+exports[`GET token 1`] = `
+Object {
+  "headers": Object {
+    "Authorization": "OAuth oauth_consumer_key=\\"undefined\\", oauth_nonce=\\"FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\\", oauth_signature=\\"%2FJPxHSjmT5yiBl6WupGIKYJE4qQ%3D\\", oauth_signature_method=\\"HMAC-SHA1\\", oauth_timestamp=\\"1485820800\\", oauth_token=\\"user_key\\", oauth_version=\\"1.0\\"",
+  },
+  "method": "GET",
+}
+`;
+
+exports[`PATCH 1`] = `
+Object {
+  "body": "{\\"some\\":\\"data\\",\\"x\\":123,\\"y\\":false,\\"z\\":null}",
+  "headers": Object {
+    "Authorization": "OAuth oauth_consumer_key=\\"undefined\\", oauth_nonce=\\"FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\\", oauth_signature=\\"or6Amqgo%2BKDpn24f%2FbJN57Sdb4s%3D\\", oauth_signature_method=\\"HMAC-SHA1\\", oauth_timestamp=\\"1485820800\\", oauth_token=\\"user_key\\", oauth_version=\\"1.0\\"",
+  },
+  "method": "PATCH",
+}
+`;
+
+exports[`PATCH token 1`] = `
+Object {
+  "body": "{\\"some\\":\\"data\\",\\"x\\":123,\\"y\\":false,\\"z\\":null}",
+  "headers": Object {
+    "Authorization": "OAuth oauth_consumer_key=\\"undefined\\", oauth_nonce=\\"FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\\", oauth_signature=\\"or6Amqgo%2BKDpn24f%2FbJN57Sdb4s%3D\\", oauth_signature_method=\\"HMAC-SHA1\\", oauth_timestamp=\\"1485820800\\", oauth_token=\\"user_key\\", oauth_version=\\"1.0\\"",
+  },
+  "method": "PATCH",
+}
+`;
+
+exports[`POST 1`] = `
+Object {
+  "body": "{\\"some\\":\\"data\\",\\"x\\":123,\\"y\\":false,\\"z\\":null}",
+  "headers": Object {
+    "Authorization": "OAuth oauth_consumer_key=\\"undefined\\", oauth_nonce=\\"FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\\", oauth_signature=\\"jbom%2FqUYh4CrabBSl7Nzq4bcOMg%3D\\", oauth_signature_method=\\"HMAC-SHA1\\", oauth_timestamp=\\"1485820800\\", oauth_token=\\"user_key\\", oauth_version=\\"1.0\\"",
+  },
+  "method": "POST",
+}
+`;
+
+exports[`POST token 1`] = `
+Object {
+  "body": "{\\"some\\":\\"data\\",\\"x\\":123,\\"y\\":false,\\"z\\":null}",
+  "headers": Object {
+    "Authorization": "OAuth oauth_consumer_key=\\"undefined\\", oauth_nonce=\\"FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\\", oauth_signature=\\"jbom%2FqUYh4CrabBSl7Nzq4bcOMg%3D\\", oauth_signature_method=\\"HMAC-SHA1\\", oauth_timestamp=\\"1485820800\\", oauth_token=\\"user_key\\", oauth_version=\\"1.0\\"",
+  },
+  "method": "POST",
+}
+`;
+
+exports[`PUT 1`] = `
+Object {
+  "body": "{\\"some\\":\\"data\\",\\"x\\":123,\\"y\\":false,\\"z\\":null}",
+  "headers": Object {
+    "Authorization": "OAuth oauth_consumer_key=\\"undefined\\", oauth_nonce=\\"FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\\", oauth_signature=\\"8Ip2MZTobJZHSezx5kaV8HLgYXc%3D\\", oauth_signature_method=\\"HMAC-SHA1\\", oauth_timestamp=\\"1485820800\\", oauth_token=\\"user_key\\", oauth_version=\\"1.0\\"",
+  },
+  "method": "PUT",
+}
+`;
+
+exports[`PUT token 1`] = `
+Object {
+  "body": "{\\"some\\":\\"data\\",\\"x\\":123,\\"y\\":false,\\"z\\":null}",
+  "headers": Object {
+    "Authorization": "OAuth oauth_consumer_key=\\"undefined\\", oauth_nonce=\\"FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF\\", oauth_signature=\\"8Ip2MZTobJZHSezx5kaV8HLgYXc%3D\\", oauth_signature_method=\\"HMAC-SHA1\\", oauth_timestamp=\\"1485820800\\", oauth_token=\\"user_key\\", oauth_version=\\"1.0\\"",
+  },
+  "method": "PUT",
+}
+`;

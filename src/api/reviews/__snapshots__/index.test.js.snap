@@ -1,0 +1,1738 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`get 1`] = `
+Object {
+  "GoodreadsResponse": Object {
+    "Request": Object {
+      "authentication": true,
+      "key": "HQEJr6OqLDv7X71M2FWLg",
+      "method": "review_list",
+    },
+    "reviews": Object {
+      "attr": Object {
+        "end": "18",
+        "start": "1",
+        "total": "18",
+      },
+      "review": Array [
+        Object {
+          "body": "
+  ",
+          "book": Object {
+            "authors": Object {
+              "author": Object {
+                "average_rating": 3.81,
+                "id": 147,
+                "image_url": Object {
+                  "_": "
+https://images.gr-assets.com/authors/1431890387p5/147.jpg
+",
+                  "attr": Object {
+                    "nophoto": "false",
+                  },
+                },
+                "link": "https://www.goodreads.com/author/show/147.Henry_Miller",
+                "name": "Henry Miller",
+                "ratings_count": 105269,
+                "role": "",
+                "small_image_url": Object {
+                  "_": "
+https://images.gr-assets.com/authors/1431890387p2/147.jpg
+",
+                  "attr": Object {
+                    "nophoto": "false",
+                  },
+                },
+                "text_reviews_count": 5333,
+              },
+            },
+            "average_rating": 3.71,
+            "description": "Самый известный и скандальный роман крупнейшего американского прозаика XX века Генри Миллера (1891 - 1980) одновременно является первой частью автобиографической трилогии писателя: \\"Тропик Рака\\", \\"Тропик Козерога\\", \\"Черная весна\\". Книгу можно поставить в один ряд со знаменитыми \\"парижскими циклами\\" Хемингуэя, Сэлинджера, Э.Лимонова. Это смесь дерзкой эротики, тонкой стилистики и неповторимой миллеровской витальности на языке кинематографа воплощена в талантливом фильме Ф.Кауфмана \\"Генри и Джун\\".",
+            "edition_information": "",
+            "format": "Paperback",
+            "id": Object {
+              "_": 16048987,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "image_url": "https://images.gr-assets.com/books/1348697561m/16048987.jpg",
+            "isbn": 5352011437,
+            "isbn13": Object {
+              "attr": Object {
+                "nil": "true",
+              },
+            },
+            "large_image_url": "",
+            "link": "https://www.goodreads.com/book/show/16048987",
+            "num_pages": 400,
+            "publication_day": "",
+            "publication_month": "",
+            "publication_year": 2006,
+            "published": 2006,
+            "publisher": "Азбука-классика ",
+            "ratings_count": 48980,
+            "small_image_url": "https://images.gr-assets.com/books/1348697561s/16048987.jpg",
+            "text_reviews_count": Object {
+              "_": 7,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "title": "Тропик рака",
+            "title_without_series": "Тропик рака",
+            "work": Object {
+              "id": 543143,
+            },
+          },
+          "comments_count": 0,
+          "date_added": "Sat Apr 23 09:26:57 -0700 2016",
+          "date_updated": "Sat Apr 23 09:27:01 -0700 2016",
+          "id": 1618467206,
+          "link": "https://www.goodreads.com/review/show/1618467206",
+          "owned": 0,
+          "rating": 3,
+          "read_at": "",
+          "read_count": "",
+          "recommended_by": "",
+          "recommended_for": "",
+          "shelves": Object {
+            "shelf": Object {
+              "attr": Object {
+                "exclusive": "true",
+                "name": "read",
+              },
+            },
+          },
+          "spoiler_flag": false,
+          "spoilers_state": "none",
+          "started_at": "",
+          "url": "https://www.goodreads.com/review/show/1618467206",
+          "votes": 0,
+        },
+        Object {
+          "body": "
+  ",
+          "book": Object {
+            "authors": Object {
+              "author": Object {
+                "average_rating": 4.31,
+                "id": 15575750,
+                "image_url": Object {
+                  "_": "
+https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+",
+                  "attr": Object {
+                    "nophoto": "true",
+                  },
+                },
+                "link": "https://www.goodreads.com/author/show/15575750.Mikhail_Zygar",
+                "name": "Mikhail Zygar",
+                "ratings_count": 868,
+                "role": "",
+                "small_image_url": Object {
+                  "_": "
+https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png
+",
+                  "attr": Object {
+                    "nophoto": "true",
+                  },
+                },
+                "text_reviews_count": 79,
+              },
+            },
+            "average_rating": 4.3,
+            "description": "Эта книга рассказывает об истории России на всем протяжении правления Владимира Путина, с 2000 по 2015 год. В основу книги легли документы, открытые источники и десятки уникальных личных интервью, которые автор взял у действующих лиц из ближайшего окружения Владимира Путина. Собранные воедино, факты, события, интриги и мнения героев составляют полную картину жизни Кремля, из которой впервые становится понятна логика метаморфозы Владимира Путина: как и почему из либерального прозападного президента начала 2000-х он превратился в авторитарного правителя и одного из самых ярых противников Запада.",
+            "edition_information": "",
+            "format": "Hardcover",
+            "id": Object {
+              "_": 27131062,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "image_url": "https://images.gr-assets.com/books/1454755695m/27131062.jpg",
+            "isbn": Object {
+              "attr": Object {
+                "nil": "true",
+              },
+            },
+            "isbn13": 9785990722309,
+            "large_image_url": "",
+            "link": "https://www.goodreads.com/book/show/27131062",
+            "num_pages": 408,
+            "publication_day": "",
+            "publication_month": "",
+            "publication_year": 2016,
+            "published": 2016,
+            "publisher": "Интеллектуальная Литература",
+            "ratings_count": 929,
+            "small_image_url": "https://images.gr-assets.com/books/1454755695s/27131062.jpg",
+            "text_reviews_count": Object {
+              "_": 58,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "title": "Вся кремлевская рать: Краткая история современной России",
+            "title_without_series": "Вся кремлевская рать: Краткая история современной России",
+            "work": Object {
+              "id": 47168937,
+            },
+          },
+          "comments_count": 0,
+          "date_added": "Wed Nov 04 01:37:54 -0800 2015",
+          "date_updated": "Wed Jan 06 02:10:54 -0800 2016",
+          "id": 1433334044,
+          "link": "https://www.goodreads.com/review/show/1433334044",
+          "owned": 0,
+          "rating": 4,
+          "read_at": "",
+          "read_count": "",
+          "recommended_by": "",
+          "recommended_for": "",
+          "shelves": Object {
+            "shelf": Object {
+              "attr": Object {
+                "exclusive": "true",
+                "name": "read",
+              },
+            },
+          },
+          "spoiler_flag": false,
+          "spoilers_state": "none",
+          "started_at": "",
+          "url": "https://www.goodreads.com/review/show/1433334044",
+          "votes": 0,
+        },
+        Object {
+          "body": "
+  ",
+          "book": Object {
+            "authors": Object {
+              "author": Object {
+                "average_rating": 3.87,
+                "id": 9226,
+                "image_url": Object {
+                  "_": "
+https://images.gr-assets.com/authors/1373826214p5/9226.jpg
+",
+                  "attr": Object {
+                    "nophoto": "false",
+                  },
+                },
+                "link": "https://www.goodreads.com/author/show/9226.William_Gibson",
+                "name": "William Gibson",
+                "ratings_count": 465720,
+                "role": "",
+                "small_image_url": Object {
+                  "_": "
+https://images.gr-assets.com/authors/1373826214p2/9226.jpg
+",
+                  "attr": Object {
+                    "nophoto": "false",
+                  },
+                },
+                "text_reviews_count": 17739,
+              },
+            },
+            "average_rating": 3.87,
+            "description": "\\"Небо над портом напоминало телеэкран, включенный на мертвый канал\\", - так начинается \\"Нейромант\\" Уильяма Гибсона, самая знаменитая книга современной американской фантастики, каноническое произведение в жанре \\"киберпанк\\", удостоенное премий \\"Хьюго\\", \\"Небьюла\\" и Приза Филипа Дика.<br />Какое оно, это будущее?<br />Жестокое? Да? Безжалостное? Да. Интересное? О ДА!!! Потому что не может быть мира более интересного, чем мир, придуманный Уильямом Гибсоном. Мир высоких технологий и биоинженерных жутковатых чудес. Мир гигантских транснациональных корпораций и глобальных компьютерных сетей. Мир всемогущей якудзы, исповедующей древний кодекс бусидо. Мир, в котором искусственный разум запрограммировал загадочную миссию, исполнить которую в силах только хакер - виртуоз и девушка - самурай. Самая крутая парочка крутого мира!",
+            "edition_information": "",
+            "format": "Hardcover",
+            "id": Object {
+              "_": 3805108,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+            "isbn": 5170003382,
+            "isbn13": Object {
+              "attr": Object {
+                "nil": "true",
+              },
+            },
+            "large_image_url": "",
+            "link": "https://www.goodreads.com/book/show/3805108",
+            "num_pages": 320,
+            "publication_day": "",
+            "publication_month": "",
+            "publication_year": 2000,
+            "published": 2000,
+            "publisher": "АСТ",
+            "ratings_count": 199823,
+            "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+            "text_reviews_count": Object {
+              "_": 6,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "title": "Нейромант",
+            "title_without_series": "Нейромант",
+            "work": Object {
+              "id": 909457,
+            },
+          },
+          "comments_count": 0,
+          "date_added": "Fri Jun 05 14:52:10 -0700 2015",
+          "date_updated": "Fri Jun 19 08:23:12 -0700 2015",
+          "id": 1299942157,
+          "link": "https://www.goodreads.com/review/show/1299942157",
+          "owned": 0,
+          "rating": 4,
+          "read_at": "Fri Jun 19 08:23:12 -0700 2015",
+          "read_count": "",
+          "recommended_by": "",
+          "recommended_for": "",
+          "shelves": Object {
+            "shelf": Object {
+              "attr": Object {
+                "exclusive": "true",
+                "name": "read",
+              },
+            },
+          },
+          "spoiler_flag": false,
+          "spoilers_state": "none",
+          "started_at": "Thu Jun 11 01:08:58 -0700 2015",
+          "url": "https://www.goodreads.com/review/show/1299942157",
+          "votes": 0,
+        },
+        Object {
+          "body": "
+  ",
+          "book": Object {
+            "authors": Object {
+              "author": Object {
+                "average_rating": 4.05,
+                "id": 2778055,
+                "image_url": Object {
+                  "_": "
+https://images.gr-assets.com/authors/1433582280p5/2778055.jpg
+",
+                  "attr": Object {
+                    "nophoto": "false",
+                  },
+                },
+                "link": "https://www.goodreads.com/author/show/2778055.Kurt_Vonnegut_Jr_",
+                "name": "Kurt Vonnegut Jr.",
+                "ratings_count": 1956933,
+                "role": "",
+                "small_image_url": Object {
+                  "_": "
+https://images.gr-assets.com/authors/1433582280p2/2778055.jpg
+",
+                  "attr": Object {
+                    "nophoto": "false",
+                  },
+                },
+                "text_reviews_count": 59254,
+              },
+            },
+            "average_rating": 4.18,
+            "description": "<b>Told with deadpan humour &amp; bitter irony, Kurt Vonnegut's cult tale of global destruction preys on our deepest fears of witnessing Armageddon &amp;, worse still, surviving it ...</b><br /><br />Dr Felix Hoenikker, one of the founding 'fathers' of the atomic bomb, has left a deadly legacy to the world. For he's the inventor of 'ice-nine', a lethal chemical capable of freezing the entire planet. The search for its whereabouts leads to Hoenikker's three ecentric children, to a crazed dictator in the Caribbean, to madness. Felix Hoenikker's Death Wish comes true when his last, fatal gift to humankind brings about the end, that for all of us, is nigh...",
+            "edition_information": "",
+            "format": "",
+            "id": Object {
+              "_": 550075,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+            "isbn": Object {
+              "attr": Object {
+                "nil": "true",
+              },
+            },
+            "isbn13": Object {
+              "attr": Object {
+                "nil": "true",
+              },
+            },
+            "large_image_url": "",
+            "link": "https://www.goodreads.com/book/show/550075._",
+            "num_pages": "",
+            "publication_day": "",
+            "publication_month": "",
+            "publication_year": 1998,
+            "published": 1998,
+            "publisher": "Azbooka",
+            "ratings_count": 270205,
+            "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+            "text_reviews_count": Object {
+              "_": 13,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "title": "Колыбель для кошки",
+            "title_without_series": "Колыбель для кошки",
+            "work": Object {
+              "id": 1621115,
+            },
+          },
+          "comments_count": 0,
+          "date_added": "Fri Jun 05 14:46:41 -0700 2015",
+          "date_updated": "Fri Jun 05 14:46:42 -0700 2015",
+          "id": 1299938516,
+          "link": "https://www.goodreads.com/review/show/1299938516",
+          "owned": 0,
+          "rating": 0,
+          "read_at": "",
+          "read_count": "",
+          "recommended_by": "",
+          "recommended_for": "",
+          "shelves": Object {
+            "shelf": Object {
+              "attr": Object {
+                "exclusive": "true",
+                "name": "to-read",
+                "review_shelf_id": "1002395454",
+                "sortable": "true",
+              },
+            },
+          },
+          "spoiler_flag": false,
+          "spoilers_state": "none",
+          "started_at": "",
+          "url": "https://www.goodreads.com/review/show/1299938516",
+          "votes": 0,
+        },
+        Object {
+          "body": "
+  ",
+          "book": Object {
+            "authors": Object {
+              "author": Object {
+                "average_rating": 3.64,
+                "id": 306,
+                "image_url": Object {
+                  "_": "
+https://images.gr-assets.com/authors/1198342496p5/306.jpg
+",
+                  "attr": Object {
+                    "nophoto": "false",
+                  },
+                },
+                "link": "https://www.goodreads.com/author/show/306.William_Golding",
+                "name": "William Golding",
+                "ratings_count": 1661951,
+                "role": "",
+                "small_image_url": Object {
+                  "_": "
+https://images.gr-assets.com/authors/1198342496p2/306.jpg
+",
+                  "attr": Object {
+                    "nophoto": "false",
+                  },
+                },
+                "text_reviews_count": 27627,
+              },
+            },
+            "average_rating": 3.64,
+            "description": "Самый знаменитый роман У.Голдинга \\"Повелитель мух\\", отвергнутый первоначально 21 издателем, был опубликован в 1954 г. и сразу стал бестселлером. С тех пор это произведение выдержало сотни переизданий по всему миру и множество раз ставилось на театральной сцене. В 1962 г. роман был экранизирован выдающимся английским режиссёром Питером Бруком.",
+            "edition_information": "",
+            "format": "Paperback",
+            "id": Object {
+              "_": 17979254,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "image_url": "https://images.gr-assets.com/books/1369588370m/17979254.jpg",
+            "isbn": 5352000079,
+            "isbn13": Object {
+              "attr": Object {
+                "nil": "true",
+              },
+            },
+            "large_image_url": "",
+            "link": "https://www.goodreads.com/book/show/17979254",
+            "num_pages": 256,
+            "publication_day": "",
+            "publication_month": "",
+            "publication_year": 2003,
+            "published": 2003,
+            "publisher": "Азбука-классика",
+            "ratings_count": 1648751,
+            "small_image_url": "https://images.gr-assets.com/books/1369588370s/17979254.jpg",
+            "text_reviews_count": Object {
+              "_": 16,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "title": "Повелитель мух",
+            "title_without_series": "Повелитель мух",
+            "work": Object {
+              "id": 2766512,
+            },
+          },
+          "comments_count": 0,
+          "date_added": "Fri Jun 05 14:38:33 -0700 2015",
+          "date_updated": "Fri Jun 19 08:24:43 -0700 2015",
+          "id": 1299932963,
+          "link": "https://www.goodreads.com/review/show/1299932963",
+          "owned": 0,
+          "rating": 0,
+          "read_at": "",
+          "read_count": "",
+          "recommended_by": "",
+          "recommended_for": "",
+          "shelves": Object {
+            "shelf": Object {
+              "attr": Object {
+                "exclusive": "true",
+                "name": "currently-reading",
+                "review_shelf_id": "1013316668",
+                "sortable": "false",
+              },
+            },
+          },
+          "spoiler_flag": false,
+          "spoilers_state": "none",
+          "started_at": "Fri Jun 19 08:24:42 -0700 2015",
+          "url": "https://www.goodreads.com/review/show/1299932963",
+          "votes": 0,
+        },
+        Object {
+          "body": "
+  ",
+          "book": Object {
+            "authors": Object {
+              "author": Object {
+                "average_rating": 3.97,
+                "id": 3487,
+                "image_url": Object {
+                  "_": "
+https://images.gr-assets.com/authors/1387374697p5/3487.jpg
+",
+                  "attr": Object {
+                    "nophoto": "false",
+                  },
+                },
+                "link": "https://www.goodreads.com/author/show/3487.Aldous_Huxley",
+                "name": "Aldous Huxley",
+                "ratings_count": 1272116,
+                "role": "",
+                "small_image_url": Object {
+                  "_": "
+https://images.gr-assets.com/authors/1387374697p2/3487.jpg
+",
+                  "attr": Object {
+                    "nophoto": "false",
+                  },
+                },
+                "text_reviews_count": 25985,
+              },
+            },
+            "average_rating": 3.96,
+            "description": "Олдос Хаксли — знаменитый писатель, классик английской литературы XX века, один из создателей так называемого «интеллектуального романа», автор всемирно известных романов «Желтый Кром» (1921), «Контрапункт» (1928), «Слепец в Газе» (1936) и многих других. В настоящем издании вниманию читателей предлагается блестящий роман-антиутопия «О дивный новый мир», созданный Олдосом Хаксли в 1932 году и по праву занимающий место в одном ряду с такими литературными шедеврами минувшего столетия, как романы «Мы» Е.Замятина и «1984» Дж. Оруэлла.",
+            "edition_information": "",
+            "format": "Paperback",
+            "id": Object {
+              "_": 2626883,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+            "isbn": 5352014479,
+            "isbn13": 9785352014479,
+            "large_image_url": "",
+            "link": "https://www.goodreads.com/book/show/2626883",
+            "num_pages": 256,
+            "publication_day": "",
+            "publication_month": "",
+            "publication_year": 2005,
+            "published": 2005,
+            "publisher": "Азбука-классика",
+            "ratings_count": 1062301,
+            "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+            "text_reviews_count": Object {
+              "_": 9,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "title": "О дивный новый мир",
+            "title_without_series": "О дивный новый мир",
+            "work": Object {
+              "id": 3204877,
+            },
+          },
+          "comments_count": 0,
+          "date_added": "Fri Jun 05 11:51:13 -0700 2015",
+          "date_updated": "Thu Jun 11 01:08:04 -0700 2015",
+          "id": 1299811785,
+          "link": "https://www.goodreads.com/review/show/1299811785",
+          "owned": 0,
+          "rating": 4,
+          "read_at": "Thu Jun 11 01:08:04 -0700 2015",
+          "read_count": "",
+          "recommended_by": "",
+          "recommended_for": "",
+          "shelves": Object {
+            "shelf": Object {
+              "attr": Object {
+                "exclusive": "true",
+                "name": "read",
+              },
+            },
+          },
+          "spoiler_flag": false,
+          "spoilers_state": "none",
+          "started_at": "Fri Jun 05 11:51:47 -0700 2015",
+          "url": "https://www.goodreads.com/review/show/1299811785",
+          "votes": 0,
+        },
+        Object {
+          "body": "
+  ",
+          "book": Object {
+            "authors": Object {
+              "author": Object {
+                "average_rating": 3.96,
+                "id": 5253347,
+                "image_url": Object {
+                  "_": "
+https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+",
+                  "attr": Object {
+                    "nophoto": "true",
+                  },
+                },
+                "link": "https://www.goodreads.com/author/show/5253347.Alexey_Ivanov",
+                "name": "Alexey Ivanov",
+                "ratings_count": 2380,
+                "role": "",
+                "small_image_url": Object {
+                  "_": "
+https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png
+",
+                  "attr": Object {
+                    "nophoto": "true",
+                  },
+                },
+                "text_reviews_count": 151,
+              },
+            },
+            "average_rating": 3.98,
+            "description": "",
+            "edition_information": "",
+            "format": "Hardcover",
+            "id": Object {
+              "_": 7593960,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "image_url": "https://images.gr-assets.com/books/1289929352m/7593960.jpg",
+            "isbn": Object {
+              "attr": Object {
+                "nil": "true",
+              },
+            },
+            "isbn13": 9785911814342,
+            "large_image_url": "",
+            "link": "https://www.goodreads.com/book/show/7593960",
+            "num_pages": 576,
+            "publication_day": "",
+            "publication_month": "",
+            "publication_year": 2007,
+            "published": 2007,
+            "publisher": "Азбука-классика",
+            "ratings_count": 144,
+            "small_image_url": "https://images.gr-assets.com/books/1289929352s/7593960.jpg",
+            "text_reviews_count": Object {
+              "_": 8,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "title": "Блуда и МУДО",
+            "title_without_series": "Блуда и МУДО",
+            "work": Object {
+              "id": 9991150,
+            },
+          },
+          "comments_count": 0,
+          "date_added": "Tue Jan 20 07:20:31 -0800 2015",
+          "date_updated": "Tue Jan 20 07:20:31 -0800 2015",
+          "id": 1174581459,
+          "link": "https://www.goodreads.com/review/show/1174581459",
+          "owned": 0,
+          "rating": 0,
+          "read_at": "",
+          "read_count": "",
+          "recommended_by": "",
+          "recommended_for": "",
+          "shelves": Object {
+            "shelf": Object {
+              "attr": Object {
+                "exclusive": "true",
+                "name": "to-read",
+                "review_shelf_id": "889990349",
+                "sortable": "true",
+              },
+            },
+          },
+          "spoiler_flag": false,
+          "spoilers_state": "none",
+          "started_at": "",
+          "url": "https://www.goodreads.com/review/show/1174581459",
+          "votes": 0,
+        },
+        Object {
+          "body": "
+  ",
+          "book": Object {
+            "authors": Object {
+              "author": Object {
+                "average_rating": 4.01,
+                "id": 3706,
+                "image_url": Object {
+                  "_": "
+https://images.gr-assets.com/authors/1450573063p5/3706.jpg
+",
+                  "attr": Object {
+                    "nophoto": "false",
+                  },
+                },
+                "link": "https://www.goodreads.com/author/show/3706.George_Orwell",
+                "name": "George Orwell",
+                "ratings_count": 4228201,
+                "role": "",
+                "small_image_url": Object {
+                  "_": "
+https://images.gr-assets.com/authors/1450573063p2/3706.jpg
+",
+                  "attr": Object {
+                    "nophoto": "false",
+                  },
+                },
+                "text_reviews_count": 90152,
+              },
+            },
+            "average_rating": 3.87,
+            "description": "As ferociously fresh as it was more than a half century ago, this remarkable allegory of a downtrodden society of overworked, mistreated animals, and their quest to create a paradise of progress, justice, and equality is one of the most scathing satires ever published. As we witness the rise and bloody fall of the revolutionary animals, we begin to recognize the seeds of totalitarianism in the most idealistic organization; and in our most charismatic leaders, the souls of our cruelest oppressors.",
+            "edition_information": "",
+            "format": "Paperback",
+            "id": Object {
+              "_": 7613,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "image_url": "https://images.gr-assets.com/books/1424037542m/7613.jpg",
+            "isbn": 452284244,
+            "isbn13": 9780452284241,
+            "large_image_url": "",
+            "link": "https://www.goodreads.com/book/show/7613.Animal_Farm",
+            "num_pages": 122,
+            "publication_day": 6,
+            "publication_month": 5,
+            "publication_year": 2003,
+            "published": 2003,
+            "publisher": "NAL",
+            "ratings_count": 1947393,
+            "small_image_url": "https://images.gr-assets.com/books/1424037542s/7613.jpg",
+            "text_reviews_count": Object {
+              "_": 24815,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "title": "Animal Farm",
+            "title_without_series": "Animal Farm",
+            "work": Object {
+              "id": 2207778,
+            },
+          },
+          "comments_count": 0,
+          "date_added": "Tue Dec 30 00:22:45 -0800 2014",
+          "date_updated": "Thu Jan 15 06:42:51 -0800 2015",
+          "id": 1146670723,
+          "link": "https://www.goodreads.com/review/show/1146670723",
+          "owned": 0,
+          "rating": 4,
+          "read_at": "Thu Jan 15 06:42:50 -0800 2015",
+          "read_count": "",
+          "recommended_by": "",
+          "recommended_for": "",
+          "shelves": Object {
+            "shelf": Object {
+              "attr": Object {
+                "exclusive": "true",
+                "name": "read",
+              },
+            },
+          },
+          "spoiler_flag": false,
+          "spoilers_state": "none",
+          "started_at": "Mon Jan 12 23:22:53 -0800 2015",
+          "url": "https://www.goodreads.com/review/show/1146670723",
+          "votes": 0,
+        },
+        Object {
+          "body": "
+  ",
+          "book": Object {
+            "authors": Object {
+              "author": Object {
+                "average_rating": 4.01,
+                "id": 4116,
+                "image_url": Object {
+                  "_": "
+https://images.gr-assets.com/authors/1207351165p5/4116.jpg
+",
+                  "attr": Object {
+                    "nophoto": "false",
+                  },
+                },
+                "link": "https://www.goodreads.com/author/show/4116.Erich_Maria_Remarque",
+                "name": "Erich Maria Remarque",
+                "ratings_count": 329581,
+                "role": "",
+                "small_image_url": Object {
+                  "_": "
+https://images.gr-assets.com/authors/1207351165p2/4116.jpg
+",
+                  "attr": Object {
+                    "nophoto": "false",
+                  },
+                },
+                "text_reviews_count": 8737,
+              },
+            },
+            "average_rating": 4.33,
+            "description": "<b>From the author of the masterpiece <i>All Quiet on the Western Front, The Black Obelisk</i> is a classic novel of the troubling aftermath of World War I in Germany.</b><br /><br />A hardened young veteran from the First World War, Ludwig now works for a monument company, selling stone markers to the survivors of deceased loved ones. Though ambivalent about his job, he suspects there’s more to life than earning a living off other people’s misfortunes.<br /><br />A self-professed poet, Ludwig soon senses a growing change in his fatherland, a brutality brought upon it by inflation. When he falls in love with the beautiful but troubled Isabelle, Ludwig hopes he has found a soul who will offer him salvation—who will free him from his obsession to find meaning in a war-torn world. But there comes a time in every man’s life when he must choose to live—despite the prevailing thread of history horrifically repeating itself.<br /><br /><b>“The world has a great writer in Erich Maria Remarque. He is a craftsman of unquestionably first rank, a man who can bend language to his will. Whether he writes of men or of inanimate nature, his touch is sensitive, firm, and sure.”—<i>The New York Times Book Review</i></b>",
+            "edition_information": "",
+            "format": "Paperback",
+            "id": Object {
+              "_": 1297123,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "image_url": "https://images.gr-assets.com/books/1353844238m/1297123.jpg",
+            "isbn": 449912442,
+            "isbn13": 9780449912447,
+            "large_image_url": "",
+            "link": "https://www.goodreads.com/book/show/1297123.The_Black_Obelisk",
+            "num_pages": 448,
+            "publication_day": 9,
+            "publication_month": 6,
+            "publication_year": 1998,
+            "published": 1998,
+            "publisher": "Random House Trade Paperbacks",
+            "ratings_count": 6938,
+            "small_image_url": "https://images.gr-assets.com/books/1353844238s/1297123.jpg",
+            "text_reviews_count": Object {
+              "_": 116,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "title": "The Black Obelisk",
+            "title_without_series": "The Black Obelisk",
+            "work": Object {
+              "id": 2735778,
+            },
+          },
+          "comments_count": 0,
+          "date_added": "Tue Dec 30 00:21:15 -0800 2014",
+          "date_updated": "Sat Feb 21 02:01:48 -0800 2015",
+          "id": 1146670016,
+          "link": "https://www.goodreads.com/review/show/1146670016",
+          "owned": 0,
+          "rating": 4,
+          "read_at": "Sat Feb 21 02:01:48 -0800 2015",
+          "read_count": "",
+          "recommended_by": "",
+          "recommended_for": "",
+          "shelves": Object {
+            "shelf": Object {
+              "attr": Object {
+                "exclusive": "true",
+                "name": "read",
+              },
+            },
+          },
+          "spoiler_flag": false,
+          "spoilers_state": "none",
+          "started_at": "Fri Jan 23 01:39:46 -0800 2015",
+          "url": "https://www.goodreads.com/review/show/1146670016",
+          "votes": 0,
+        },
+        Object {
+          "body": "
+  ",
+          "book": Object {
+            "authors": Object {
+              "author": Object {
+                "average_rating": 4.01,
+                "id": 4116,
+                "image_url": Object {
+                  "_": "
+https://images.gr-assets.com/authors/1207351165p5/4116.jpg
+",
+                  "attr": Object {
+                    "nophoto": "false",
+                  },
+                },
+                "link": "https://www.goodreads.com/author/show/4116.Erich_Maria_Remarque",
+                "name": "Erich Maria Remarque",
+                "ratings_count": 329581,
+                "role": "",
+                "small_image_url": Object {
+                  "_": "
+https://images.gr-assets.com/authors/1207351165p2/4116.jpg
+",
+                  "attr": Object {
+                    "nophoto": "false",
+                  },
+                },
+                "text_reviews_count": 8737,
+              },
+            },
+            "average_rating": 4.62,
+            "description": "",
+            "edition_information": "",
+            "format": "Hardcover",
+            "id": Object {
+              "_": 9349444,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+            "isbn": 5858800084,
+            "isbn13": Object {
+              "attr": Object {
+                "nil": "true",
+              },
+            },
+            "large_image_url": "",
+            "link": "https://www.goodreads.com/book/show/9349444",
+            "num_pages": 556,
+            "publication_day": "",
+            "publication_month": "",
+            "publication_year": 1993,
+            "published": 1993,
+            "publisher": "Феникс",
+            "ratings_count": 66,
+            "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+            "text_reviews_count": Object {
+              "_": 0,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "title": "Возвращение. Время жить и время умирать.",
+            "title_without_series": "Возвращение. Время жить и время умирать.",
+            "work": Object {
+              "id": 14232823,
+            },
+          },
+          "comments_count": 0,
+          "date_added": "Tue Dec 30 00:17:38 -0800 2014",
+          "date_updated": "Mon Jan 12 23:22:10 -0800 2015",
+          "id": 1146668391,
+          "link": "https://www.goodreads.com/review/show/1146668391",
+          "owned": 0,
+          "rating": 5,
+          "read_at": "Mon Jan 12 23:22:10 -0800 2015",
+          "read_count": "",
+          "recommended_by": "",
+          "recommended_for": "",
+          "shelves": Object {
+            "shelf": Object {
+              "attr": Object {
+                "exclusive": "true",
+                "name": "read",
+              },
+            },
+          },
+          "spoiler_flag": false,
+          "spoilers_state": "none",
+          "started_at": "Tue Dec 30 00:17:38 -0800 2014",
+          "url": "https://www.goodreads.com/review/show/1146668391",
+          "votes": 0,
+        },
+        Object {
+          "body": "
+  ",
+          "book": Object {
+            "authors": Object {
+              "author": Object {
+                "average_rating": 4.25,
+                "id": 7086756,
+                "image_url": Object {
+                  "_": "
+https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+",
+                  "attr": Object {
+                    "nophoto": "true",
+                  },
+                },
+                "link": "https://www.goodreads.com/author/show/7086756._",
+                "name": "Невил Шют",
+                "ratings_count": 8,
+                "role": "",
+                "small_image_url": Object {
+                  "_": "
+https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png
+",
+                  "attr": Object {
+                    "nophoto": "true",
+                  },
+                },
+                "text_reviews_count": 1,
+              },
+            },
+            "average_rating": 4.29,
+            "description": "",
+            "edition_information": "",
+            "format": "",
+            "id": Object {
+              "_": 17912284,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+            "isbn": Object {
+              "attr": Object {
+                "nil": "true",
+              },
+            },
+            "isbn13": Object {
+              "attr": Object {
+                "nil": "true",
+              },
+            },
+            "large_image_url": "",
+            "link": "https://www.goodreads.com/book/show/17912284",
+            "num_pages": "",
+            "publication_day": "",
+            "publication_month": "",
+            "publication_year": "",
+            "published": "",
+            "publisher": "",
+            "ratings_count": 7,
+            "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+            "text_reviews_count": Object {
+              "_": 1,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "title": "На берегу",
+            "title_without_series": "На берегу",
+            "work": Object {
+              "id": 25099607,
+            },
+          },
+          "comments_count": 0,
+          "date_added": "Fri Dec 12 12:36:54 -0800 2014",
+          "date_updated": "Wed Dec 24 10:05:00 -0800 2014",
+          "id": 1130158325,
+          "link": "https://www.goodreads.com/review/show/1130158325",
+          "owned": 0,
+          "rating": 5,
+          "read_at": "",
+          "read_count": "",
+          "recommended_by": "",
+          "recommended_for": "",
+          "shelves": Object {
+            "shelf": Object {
+              "attr": Object {
+                "exclusive": "true",
+                "name": "read",
+              },
+            },
+          },
+          "spoiler_flag": false,
+          "spoilers_state": "none",
+          "started_at": "",
+          "url": "https://www.goodreads.com/review/show/1130158325",
+          "votes": 0,
+        },
+        Object {
+          "body": "
+  ",
+          "book": Object {
+            "authors": Object {
+              "author": Object {
+                "average_rating": 3.96,
+                "id": 3167,
+                "image_url": Object {
+                  "_": "
+https://images.gr-assets.com/authors/1197308614p5/3167.jpg
+",
+                  "attr": Object {
+                    "nophoto": "false",
+                  },
+                },
+                "link": "https://www.goodreads.com/author/show/3167.Joseph_Heller",
+                "name": "Joseph Heller",
+                "ratings_count": 593520,
+                "role": "",
+                "small_image_url": Object {
+                  "_": "
+https://images.gr-assets.com/authors/1197308614p2/3167.jpg
+",
+                  "attr": Object {
+                    "nophoto": "false",
+                  },
+                },
+                "text_reviews_count": 14693,
+              },
+            },
+            "average_rating": 3.98,
+            "description": "At the heart of Catch-22 resides the incomparable, malingering bombardier, Yossarian, a hero endlessly inventive in his schemes to save his skin from the horrible chances of war.<br /><br />His problem is Colonel Cathcart, who keeps raising the number of missions the men must fly to complete their service. Yet if Yossarian makes any attempts to excuse himself from the perilous missions that he's committed to flying, he's trapped by the Great Loyalty Oath Crusade, the bureaucratic rule from which the book takes its title: a man is considered insane if he willingly continues to fly dangerous combat missions, but if he makes the necessary formal request to be relieved of such missions, the very act of making the request proves that he's sane and therefore, ineligible to be relieved.",
+            "edition_information": "",
+            "format": "",
+            "id": Object {
+              "_": 168668,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "image_url": "https://images.gr-assets.com/books/1463157317m/168668.jpg",
+            "isbn": 684833395,
+            "isbn13": 9780684833392,
+            "large_image_url": "",
+            "link": "https://www.goodreads.com/book/show/168668.Catch_22",
+            "num_pages": 453,
+            "publication_day": 4,
+            "publication_month": 9,
+            "publication_year": 2004,
+            "published": 2004,
+            "publisher": "Simon & Schuster ",
+            "ratings_count": 574744,
+            "small_image_url": "https://images.gr-assets.com/books/1463157317s/168668.jpg",
+            "text_reviews_count": Object {
+              "_": 11836,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "title": "Catch-22",
+            "title_without_series": "Catch-22",
+            "work": Object {
+              "id": 814330,
+            },
+          },
+          "comments_count": 0,
+          "date_added": "Fri Dec 12 12:35:34 -0800 2014",
+          "date_updated": "Tue Dec 30 00:16:45 -0800 2014",
+          "id": 1130157430,
+          "link": "https://www.goodreads.com/review/show/1130157430",
+          "owned": 0,
+          "rating": 0,
+          "read_at": "Tue Dec 30 00:16:45 -0800 2014",
+          "read_count": "",
+          "recommended_by": "",
+          "recommended_for": "",
+          "shelves": Object {
+            "shelf": Object {
+              "attr": Object {
+                "exclusive": "true",
+                "name": "to-read",
+                "review_shelf_id": "867022082",
+                "sortable": "true",
+              },
+            },
+          },
+          "spoiler_flag": false,
+          "spoilers_state": "none",
+          "started_at": "Fri Dec 12 12:35:34 -0800 2014",
+          "url": "https://www.goodreads.com/review/show/1130157430",
+          "votes": 0,
+        },
+        Object {
+          "body": "
+  ",
+          "book": Object {
+            "authors": Object {
+              "author": Object {
+                "average_rating": 4.01,
+                "id": 3706,
+                "image_url": Object {
+                  "_": "
+https://images.gr-assets.com/authors/1450573063p5/3706.jpg
+",
+                  "attr": Object {
+                    "nophoto": "false",
+                  },
+                },
+                "link": "https://www.goodreads.com/author/show/3706.George_Orwell",
+                "name": "George Orwell",
+                "ratings_count": 4228201,
+                "role": "",
+                "small_image_url": Object {
+                  "_": "
+https://images.gr-assets.com/authors/1450573063p2/3706.jpg
+",
+                  "attr": Object {
+                    "nophoto": "false",
+                  },
+                },
+                "text_reviews_count": 90152,
+              },
+            },
+            "average_rating": 4.14,
+            "description": "The year 1984 has come and gone, but George Orwell's prophetic, nightmarish vision in 1949 of the world we were becoming is timelier than ever. <i>1984</i> is still the great modern classic of \\"negative utopia\\" -a startlingly original and haunting novel that creates an imaginary world that is completely convincing, from the first sentence to the last four words. No one can deny the novel's hold on the imaginations of whole generations, or the power of its admonitions -a power that seems to grow, not lessen, with the passage of time.",
+            "edition_information": "Signet Classics",
+            "format": "Mass Market Paperback",
+            "id": Object {
+              "_": 5470,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "image_url": "https://images.gr-assets.com/books/1348990566m/5470.jpg",
+            "isbn": 451524934,
+            "isbn13": 9780451524935,
+            "large_image_url": "",
+            "link": "https://www.goodreads.com/book/show/5470.1984",
+            "num_pages": 328,
+            "publication_day": 1,
+            "publication_month": 7,
+            "publication_year": 1950,
+            "published": 1950,
+            "publisher": "New American Library",
+            "ratings_count": 2004663,
+            "small_image_url": "https://images.gr-assets.com/books/1348990566s/5470.jpg",
+            "text_reviews_count": Object {
+              "_": 35889,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "title": 1984,
+            "title_without_series": 1984,
+            "work": Object {
+              "id": 153313,
+            },
+          },
+          "comments_count": 0,
+          "date_added": "Thu Nov 20 12:16:59 -0800 2014",
+          "date_updated": "Mon Dec 08 13:01:14 -0800 2014",
+          "id": 1111311404,
+          "link": "https://www.goodreads.com/review/show/1111311404",
+          "owned": 0,
+          "rating": 5,
+          "read_at": "Mon Dec 08 13:01:14 -0800 2014",
+          "read_count": "",
+          "recommended_by": "",
+          "recommended_for": "",
+          "shelves": Object {
+            "shelf": Object {
+              "attr": Object {
+                "exclusive": "true",
+                "name": "read",
+              },
+            },
+          },
+          "spoiler_flag": false,
+          "spoilers_state": "none",
+          "started_at": "Wed Nov 26 03:58:31 -0800 2014",
+          "url": "https://www.goodreads.com/review/show/1111311404",
+          "votes": 0,
+        },
+        Object {
+          "body": "
+  ",
+          "book": Object {
+            "authors": Object {
+              "author": Object {
+                "average_rating": 4.21,
+                "id": 13,
+                "image_url": Object {
+                  "_": "
+https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png
+",
+                  "attr": Object {
+                    "nophoto": "true",
+                  },
+                },
+                "link": "https://www.goodreads.com/author/show/13.Dave_Thomas",
+                "name": "Dave Thomas",
+                "ratings_count": 14365,
+                "role": "",
+                "small_image_url": Object {
+                  "_": "
+https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png
+",
+                  "attr": Object {
+                    "nophoto": "true",
+                  },
+                },
+                "text_reviews_count": 770,
+              },
+            },
+            "average_rating": 4.28,
+            "description": "You want to explore functional programming, but are put off by the academic feel (tell me about monads just one more time). You know you need concurrent applications, but also know these are almost impossible to get right. Meet Elixir, a functional, concurrent language built on the rock-solid Erlang VM. Elixir’s pragmatic syntax and built-in support for metaprogramming will make you productive and keep you interested for the long haul. This book is the introduction to Elixir for experienced programmers.<br /><br />Maybe you need something that’s closer to Ruby, but with a battle-proven environment that’s unrivaled for massive scalability, concurrency, distribution, and fault tolerance. Maybe the time is right for the Next Big Thing. Maybe it’s Elixir.",
+            "edition_information": "P1.0",
+            "format": "Paperback",
+            "id": Object {
+              "_": 17971957,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "image_url": "https://images.gr-assets.com/books/1369310461m/17971957.jpg",
+            "isbn": 1937785580,
+            "isbn13": 9781937785581,
+            "large_image_url": "",
+            "link": "https://www.goodreads.com/book/show/17971957-programming-elixir",
+            "num_pages": 287,
+            "publication_day": "",
+            "publication_month": "",
+            "publication_year": 2013,
+            "published": 2013,
+            "publisher": "The Pragmatic Bookshelf",
+            "ratings_count": 334,
+            "small_image_url": "https://images.gr-assets.com/books/1369310461s/17971957.jpg",
+            "text_reviews_count": Object {
+              "_": 26,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "title": "Programming Elixir: Functional |> Concurrent |> Pragmatic |> Fun",
+            "title_without_series": "Programming Elixir: Functional |> Concurrent |> Pragmatic |> Fun",
+            "work": Object {
+              "id": 25193539,
+            },
+          },
+          "comments_count": 0,
+          "date_added": "Thu Nov 20 12:15:37 -0800 2014",
+          "date_updated": "Thu Nov 20 12:15:38 -0800 2014",
+          "id": 1111310371,
+          "link": "https://www.goodreads.com/review/show/1111310371",
+          "owned": 0,
+          "rating": 0,
+          "read_at": "",
+          "read_count": "",
+          "recommended_by": "",
+          "recommended_for": "",
+          "shelves": Object {
+            "shelf": Object {
+              "attr": Object {
+                "exclusive": "true",
+                "name": "to-read",
+                "review_shelf_id": "836982101",
+                "sortable": "true",
+              },
+            },
+          },
+          "spoiler_flag": false,
+          "spoilers_state": "none",
+          "started_at": "",
+          "url": "https://www.goodreads.com/review/show/1111310371",
+          "votes": 0,
+        },
+        Object {
+          "body": "
+  ",
+          "book": Object {
+            "authors": Object {
+              "author": Object {
+                "average_rating": 4.49,
+                "id": 6462632,
+                "image_url": Object {
+                  "_": "
+https://images.gr-assets.com/authors/1442638267p5/6462632.jpg
+",
+                  "attr": Object {
+                    "nophoto": "false",
+                  },
+                },
+                "link": "https://www.goodreads.com/author/show/6462632.Fred_Hebert",
+                "name": "Fred Hebert",
+                "ratings_count": 250,
+                "role": "",
+                "small_image_url": Object {
+                  "_": "
+https://images.gr-assets.com/authors/1442638267p2/6462632.jpg
+",
+                  "attr": Object {
+                    "nophoto": "false",
+                  },
+                },
+                "text_reviews_count": 20,
+              },
+            },
+            "average_rating": 4.17,
+            "description": "This book intends to be a little guide about how to be the Erlang medic in a time of war. It is first and foremost a collection of tips and tricks to help understand where failures come from, and a dictionary of different code snippets and practices that helped developers debug production systems that were built in Erlang.",
+            "edition_information": "",
+            "format": "ebook",
+            "id": Object {
+              "_": 23245313,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "image_url": "https://images.gr-assets.com/books/1410976806m/23245313.jpg",
+            "isbn": Object {
+              "attr": Object {
+                "nil": "true",
+              },
+            },
+            "isbn13": Object {
+              "attr": Object {
+                "nil": "true",
+              },
+            },
+            "large_image_url": "",
+            "link": "https://www.goodreads.com/book/show/23245313-stuff-goes-bad",
+            "num_pages": 93,
+            "publication_day": "",
+            "publication_month": 9,
+            "publication_year": 2014,
+            "published": 2014,
+            "publisher": "",
+            "ratings_count": 29,
+            "small_image_url": "https://images.gr-assets.com/books/1410976806s/23245313.jpg",
+            "text_reviews_count": Object {
+              "_": 3,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "title": "Stuff Goes Bad: Erlang in Anger",
+            "title_without_series": "Stuff Goes Bad: Erlang in Anger",
+            "work": Object {
+              "id": 42788613,
+            },
+          },
+          "comments_count": 0,
+          "date_added": "Thu Nov 20 12:14:51 -0800 2014",
+          "date_updated": "Thu Nov 20 12:14:51 -0800 2014",
+          "id": 1111309773,
+          "link": "https://www.goodreads.com/review/show/1111309773",
+          "owned": 0,
+          "rating": 0,
+          "read_at": "",
+          "read_count": "",
+          "recommended_by": "",
+          "recommended_for": "",
+          "shelves": Object {
+            "shelf": Object {
+              "attr": Object {
+                "exclusive": "true",
+                "name": "to-read",
+                "review_shelf_id": "836981570",
+                "sortable": "true",
+              },
+            },
+          },
+          "spoiler_flag": false,
+          "spoilers_state": "none",
+          "started_at": "",
+          "url": "https://www.goodreads.com/review/show/1111309773",
+          "votes": 0,
+        },
+        Object {
+          "body": "
+  ",
+          "book": Object {
+            "authors": Object {
+              "author": Object {
+                "average_rating": 4.49,
+                "id": 6462632,
+                "image_url": Object {
+                  "_": "
+https://images.gr-assets.com/authors/1442638267p5/6462632.jpg
+",
+                  "attr": Object {
+                    "nophoto": "false",
+                  },
+                },
+                "link": "https://www.goodreads.com/author/show/6462632.Fred_Hebert",
+                "name": "Fred Hebert",
+                "ratings_count": 250,
+                "role": "",
+                "small_image_url": Object {
+                  "_": "
+https://images.gr-assets.com/authors/1442638267p2/6462632.jpg
+",
+                  "attr": Object {
+                    "nophoto": "false",
+                  },
+                },
+                "text_reviews_count": 20,
+              },
+            },
+            "average_rating": 4.53,
+            "description": "",
+            "edition_information": "",
+            "format": "Paperback",
+            "id": Object {
+              "_": 6718693,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "image_url": "https://images.gr-assets.com/books/1367322047m/6718693.jpg",
+            "isbn": Object {
+              "attr": Object {
+                "nil": "true",
+              },
+            },
+            "isbn13": Object {
+              "attr": Object {
+                "nil": "true",
+              },
+            },
+            "large_image_url": "",
+            "link": "https://www.goodreads.com/book/show/6718693-learn-you-some-erlang-for-great-good",
+            "num_pages": 593,
+            "publication_day": "",
+            "publication_month": "",
+            "publication_year": "",
+            "published": "",
+            "publisher": "No Starch Press",
+            "ratings_count": 221,
+            "small_image_url": "https://images.gr-assets.com/books/1367322047s/6718693.jpg",
+            "text_reviews_count": Object {
+              "_": 16,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "title": "Learn you some Erlang for great good!",
+            "title_without_series": "Learn you some Erlang for great good!",
+            "work": Object {
+              "id": 6914785,
+            },
+          },
+          "comments_count": 0,
+          "date_added": "Thu Nov 20 12:14:27 -0800 2014",
+          "date_updated": "Thu Nov 20 12:14:28 -0800 2014",
+          "id": 1111309492,
+          "link": "https://www.goodreads.com/review/show/1111309492",
+          "owned": 0,
+          "rating": 0,
+          "read_at": "",
+          "read_count": "",
+          "recommended_by": "",
+          "recommended_for": "",
+          "shelves": Object {
+            "shelf": Object {
+              "attr": Object {
+                "exclusive": "true",
+                "name": "currently-reading",
+                "review_shelf_id": "836981328",
+                "sortable": "false",
+              },
+            },
+          },
+          "spoiler_flag": false,
+          "spoilers_state": "none",
+          "started_at": "Thu Nov 20 12:14:27 -0800 2014",
+          "url": "https://www.goodreads.com/review/show/1111309492",
+          "votes": 0,
+        },
+        Object {
+          "body": "
+  ",
+          "book": Object {
+            "authors": Object {
+              "author": Object {
+                "average_rating": 4.28,
+                "id": 187723,
+                "image_url": Object {
+                  "_": "
+https://images.gr-assets.com/authors/1488376736p5/187723.jpg
+",
+                  "attr": Object {
+                    "nophoto": "false",
+                  },
+                },
+                "link": "https://www.goodreads.com/author/show/187723.Lee_Kuan_Yew",
+                "name": "Lee Kuan Yew",
+                "ratings_count": 4207,
+                "role": "",
+                "small_image_url": Object {
+                  "_": "
+https://images.gr-assets.com/authors/1488376736p2/187723.jpg
+",
+                  "attr": Object {
+                    "nophoto": "false",
+                  },
+                },
+                "text_reviews_count": 435,
+              },
+            },
+            "average_rating": 4.37,
+            "description": "In this memoir, the man most responsible for Singapore's astonishing transformation from colonial backwater to economic powerhouse describes how he did it over the last four decades. It's a dramatic story, and Lee Kuan Yew has much to brag about. To take a single example: Singapore had a per-capita GDP of just $400 when he became prime minister in 1959. When he left office in 1990, it was $12,200 and rising. (At the time of this book's writing, it was $22,000.) Much of this was accomplished through a unique mix of economic freedom and social control. Lee encouraged entrepreneurship, but also cracked down on liberties that most people in the West take for granted--chewing gum, for instance. It's banned in Singapore because of \\"the problems caused by spent chewing gum inserted into keyholes and mailboxes and on elevator buttons.\\" If American politicians were to propose such a thing, they'd undoubtedly be run out of office. Lee, however, defends this and similar moves, such as strong antismoking laws and antispitting campaigns: \\"We would have been a grosser, ruder, cruder society had we not made these efforts to persuade people to change their ways.... It has made Singapore a more pleasant place to live in. If this is a 'nanny state,' I am proud to have fostered one.\\" <p> Lee also describes one of his most controversial proposals: tax breaks and schooling incentives to encourage educated men and women to marry each other and have children. \\"Our best women were not reproducing themselves because men who were their educational equals did not want to marry them.... This lopsided marriage and procreation pattern could not be allowed to remain unmentioned and unchecked,\\" writes Lee. Most of the book, however, is a chronicle of how Lee helped create so much material prosperity. Anticommunism is a strong theme throughout, and Lee comments broadly on international politics. He is cautiously friendly toward the United States, chastising it for a \\"dogmatic and evangelical\\" foreign policy that scolds other countries for human-rights violations, except when they interfere with American interests, \\"as in the oil-rich Arabian peninsula.\\" Even so, he writes, \\"the United States is still the most benign of all the great powers.... [and] all noncommunist countries in East Asia prefer America to be the dominant weight in the power balance of the region.\\" <i>From Third World to First</i> is not the most gripping book imaginable, but it is a vital document about a fascinating place in a time of profound transition. <i>--John J. Miller</i></p>",
+            "edition_information": "",
+            "format": "",
+            "id": Object {
+              "_": 144409,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+            "isbn": 60197765,
+            "isbn13": 9780060197766,
+            "large_image_url": "",
+            "link": "https://www.goodreads.com/book/show/144409.From_Third_World_to_First",
+            "num_pages": "",
+            "publication_day": "",
+            "publication_month": "",
+            "publication_year": "",
+            "published": "",
+            "publisher": "",
+            "ratings_count": 1453,
+            "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+            "text_reviews_count": Object {
+              "_": 119,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "title": "From Third World to First",
+            "title_without_series": "From Third World to First",
+            "work": Object {
+              "id": 139331,
+            },
+          },
+          "comments_count": 0,
+          "date_added": "Thu Nov 20 12:11:37 -0800 2014",
+          "date_updated": "Thu Nov 20 12:11:37 -0800 2014",
+          "id": 1111307554,
+          "link": "https://www.goodreads.com/review/show/1111307554",
+          "owned": 0,
+          "rating": 5,
+          "read_at": "",
+          "read_count": "",
+          "recommended_by": "",
+          "recommended_for": "",
+          "shelves": Object {
+            "shelf": Object {
+              "attr": Object {
+                "exclusive": "true",
+                "name": "read",
+              },
+            },
+          },
+          "spoiler_flag": false,
+          "spoilers_state": "none",
+          "started_at": "",
+          "url": "https://www.goodreads.com/review/show/1111307554",
+          "votes": 0,
+        },
+        Object {
+          "body": "
+  ",
+          "book": Object {
+            "authors": Object {
+              "author": Object {
+                "average_rating": 3.74,
+                "id": 432,
+                "image_url": Object {
+                  "_": "
+https://images.gr-assets.com/authors/1168729178p5/432.jpg
+",
+                  "attr": Object {
+                    "nophoto": "false",
+                  },
+                },
+                "link": "https://www.goodreads.com/author/show/432.Ayn_Rand",
+                "name": "Ayn Rand",
+                "ratings_count": 714981,
+                "role": "",
+                "small_image_url": Object {
+                  "_": "
+https://images.gr-assets.com/authors/1168729178p2/432.jpg
+",
+                  "attr": Object {
+                    "nophoto": "false",
+                  },
+                },
+                "text_reviews_count": 34795,
+              },
+            },
+            "average_rating": 3.68,
+            "description": "Айн Рэнд (1905–1982) — наша бывшая соотечественница, ставшая крупнейшей американской писательницей. Автор четырех романов-бестселлеров и многочисленных статей. Создатель философской концепции, в основе которой лежит принцип свободы воли, главенство рациональности и «нравственность разумного эгоизма». Ее книги читает весь мир. В США она завоевала огромную популярность, ее романы переиздаются из года в год и по совокупности тиражей конкурируют с Библией. Всемирное признание Айн Рэнд нетрудно объяснить: исключительный дар предвидения в самых разных областях — политике, бизнесе, экономике, общественных отношениях — в сочетании с художественной одаренностью пр&amp;",
+            "edition_information": "",
+            "format": "",
+            "id": Object {
+              "_": 20577645,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+            "isbn": Object {
+              "attr": Object {
+                "nil": "true",
+              },
+            },
+            "isbn13": Object {
+              "attr": Object {
+                "nil": "true",
+              },
+            },
+            "large_image_url": "",
+            "link": "https://www.goodreads.com/book/show/20577645",
+            "num_pages": "",
+            "publication_day": 18,
+            "publication_month": 9,
+            "publication_year": 2013,
+            "published": 2013,
+            "publisher": "",
+            "ratings_count": 293372,
+            "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+            "text_reviews_count": Object {
+              "_": 8,
+              "attr": Object {
+                "type": "integer",
+              },
+            },
+            "title": "Атлант расправил плечи",
+            "title_without_series": "Атлант расправил плечи",
+            "work": Object {
+              "id": 817219,
+            },
+          },
+          "comments_count": 0,
+          "date_added": "Thu Nov 20 12:10:06 -0800 2014",
+          "date_updated": "Thu Nov 27 04:30:42 -0800 2014",
+          "id": 1111306645,
+          "link": "https://www.goodreads.com/review/show/1111306645",
+          "owned": 0,
+          "rating": 5,
+          "read_at": "Mon Nov 24 05:00:07 -0800 2014",
+          "read_count": "",
+          "recommended_by": "",
+          "recommended_for": "",
+          "shelves": Object {
+            "shelf": Object {
+              "attr": Object {
+                "exclusive": "true",
+                "name": "read",
+              },
+            },
+          },
+          "spoiler_flag": false,
+          "spoilers_state": "none",
+          "started_at": "Thu Nov 20 12:10:23 -0800 2014",
+          "url": "https://www.goodreads.com/review/show/1111306645",
+          "votes": 0,
+        },
+      ],
+    },
+  },
+}
+`;

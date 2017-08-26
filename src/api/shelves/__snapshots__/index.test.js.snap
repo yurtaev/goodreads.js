@@ -1,0 +1,270 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`get 1`] = `
+Object {
+  "GoodreadsResponse": Object {
+    "Request": Object {
+      "authentication": true,
+      "key": "
+			axSjbCYKPnsRhz0Y2OoDkg
+		",
+      "method": "
+			shelf_list
+		",
+    },
+    "shelves": Object {
+      "attr": Object {
+        "end": "4",
+        "start": "1",
+        "total": "4",
+      },
+      "user_shelf": Array [
+        Object {
+          "book_count": Object {
+            "_": 3,
+            "attr": Object {
+              "type": "integer",
+            },
+          },
+          "description": Object {
+            "attr": Object {
+              "nil": "true",
+            },
+          },
+          "display_fields": "",
+          "exclusive_flag": Object {
+            "_": true,
+            "attr": Object {
+              "type": "boolean",
+            },
+          },
+          "featured": Object {
+            "_": true,
+            "attr": Object {
+              "type": "boolean",
+            },
+          },
+          "id": Object {
+            "_": 224478320,
+            "attr": Object {
+              "type": "integer",
+            },
+          },
+          "name": "read",
+          "order": Object {
+            "attr": Object {
+              "nil": "true",
+            },
+          },
+          "per_page": Object {
+            "attr": Object {
+              "nil": "true",
+              "type": "integer",
+            },
+          },
+          "recommend_for": Object {
+            "_": false,
+            "attr": Object {
+              "type": "boolean",
+            },
+          },
+          "sort": Object {
+            "attr": Object {
+              "nil": "true",
+            },
+          },
+          "sticky": Object {
+            "attr": Object {
+              "nil": "true",
+              "type": "boolean",
+            },
+          },
+        },
+        Object {
+          "book_count": Object {
+            "_": 1,
+            "attr": Object {
+              "type": "integer",
+            },
+          },
+          "description": Object {
+            "attr": Object {
+              "nil": "true",
+            },
+          },
+          "display_fields": "",
+          "exclusive_flag": Object {
+            "_": true,
+            "attr": Object {
+              "type": "boolean",
+            },
+          },
+          "featured": Object {
+            "_": false,
+            "attr": Object {
+              "type": "boolean",
+            },
+          },
+          "id": Object {
+            "_": 224478319,
+            "attr": Object {
+              "type": "integer",
+            },
+          },
+          "name": "currently-reading",
+          "order": Object {
+            "attr": Object {
+              "nil": "true",
+            },
+          },
+          "per_page": Object {
+            "attr": Object {
+              "nil": "true",
+              "type": "integer",
+            },
+          },
+          "recommend_for": Object {
+            "_": false,
+            "attr": Object {
+              "type": "boolean",
+            },
+          },
+          "sort": Object {
+            "attr": Object {
+              "nil": "true",
+            },
+          },
+          "sticky": Object {
+            "attr": Object {
+              "nil": "true",
+              "type": "boolean",
+            },
+          },
+        },
+        Object {
+          "book_count": Object {
+            "_": 0,
+            "attr": Object {
+              "type": "integer",
+            },
+          },
+          "description": Object {
+            "attr": Object {
+              "nil": "true",
+            },
+          },
+          "display_fields": "",
+          "exclusive_flag": Object {
+            "_": true,
+            "attr": Object {
+              "type": "boolean",
+            },
+          },
+          "featured": Object {
+            "_": false,
+            "attr": Object {
+              "type": "boolean",
+            },
+          },
+          "id": Object {
+            "_": 224478318,
+            "attr": Object {
+              "type": "integer",
+            },
+          },
+          "name": "to-read",
+          "order": Object {
+            "attr": Object {
+              "nil": "true",
+            },
+          },
+          "per_page": Object {
+            "attr": Object {
+              "nil": "true",
+              "type": "integer",
+            },
+          },
+          "recommend_for": Object {
+            "_": true,
+            "attr": Object {
+              "type": "boolean",
+            },
+          },
+          "sort": Object {
+            "attr": Object {
+              "nil": "true",
+            },
+          },
+          "sticky": Object {
+            "attr": Object {
+              "nil": "true",
+              "type": "boolean",
+            },
+          },
+        },
+        Object {
+          "book_count": Object {
+            "_": 0,
+            "attr": Object {
+              "type": "integer",
+            },
+          },
+          "description": Object {
+            "attr": Object {
+              "nil": "true",
+            },
+          },
+          "display_fields": "",
+          "exclusive_flag": Object {
+            "_": true,
+            "attr": Object {
+              "type": "boolean",
+            },
+          },
+          "featured": Object {
+            "_": false,
+            "attr": Object {
+              "type": "boolean",
+            },
+          },
+          "id": Object {
+            "_": 226073854,
+            "attr": Object {
+              "type": "integer",
+            },
+          },
+          "name": "not-read",
+          "order": Object {
+            "attr": Object {
+              "nil": "true",
+            },
+          },
+          "per_page": Object {
+            "attr": Object {
+              "nil": "true",
+              "type": "integer",
+            },
+          },
+          "recommend_for": Object {
+            "_": true,
+            "attr": Object {
+              "type": "boolean",
+            },
+          },
+          "sort": Object {
+            "attr": Object {
+              "nil": "true",
+            },
+          },
+          "sticky": Object {
+            "attr": Object {
+              "nil": "true",
+              "type": "boolean",
+            },
+          },
+        },
+      ],
+    },
+  },
+}
+`;

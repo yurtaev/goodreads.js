@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "commander": "^2.10.0",
+    "oauth": "^0.9.15",
+    "opn": "^5.1.0",
+    "xml2js": "^0.4.17"
+  }
+}
